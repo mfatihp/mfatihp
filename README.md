@@ -1,7 +1,7 @@
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://github.com/mfatihp/mfatihp/blob/master/logo_name.png?raw=true" width="800px" height="300px">
+<img src="https://github.com/mfatihp/mfatihp/blob/master/logo_name.png?raw=true" width="800px" height="200px">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mfatihp&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mfatihp&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Actual text -->
 
