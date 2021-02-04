@@ -5,7 +5,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mfatihp&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&&langs_count=10&count_private=true&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&&langs_count=9&count_private=true&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.2]][1].
