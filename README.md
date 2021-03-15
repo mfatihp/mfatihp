@@ -1,5 +1,5 @@
 ### Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://github.com/mfatihp/mfatihp/blob/master/logo_name.png?raw=true" width="800px" height="200px">
+<!--<img src="https://github.com/mfatihp/mfatihp/blob/master/logo_name.png?raw=true" width="800px" height="200px">-->
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
