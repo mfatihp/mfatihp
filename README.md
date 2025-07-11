@@ -1,3 +1,1 @@
-
-## 📊 GitHub Stats
-![Fatih's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfatihp&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp)](https://github.com/anuraghazra/github-readme-stats)
