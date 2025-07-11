@@ -3,7 +3,9 @@
 <br>
 
 🚀 AI Engineer | Data Scientist 
+<br>
 🎯 Building ML systems that work in the real world
+<br>
 🌱 Currently focused on LLMs, video anomaly detection, and SaaS AI products.
 
 ### 🛠️ Languages and Tools
