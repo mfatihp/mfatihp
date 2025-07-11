@@ -21,4 +21,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&layout=pie&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&layout=pie&hide=jupyter%20notebook)]
+![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfatihp&show_icons=true&theme=default&hide_border=true&count_private=false)
