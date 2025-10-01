@@ -19,6 +19,9 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+
 
 
 ### 📊 Top Langs
