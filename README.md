@@ -20,4 +20,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 ### 📊 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&layout=pie&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&layout=pie&hide=jupyter%20notebook&jinja)
