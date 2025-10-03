@@ -1,12 +1,8 @@
-## 👋 Hi, I’m Fatih
-
-<br>
-
-🚀 AI Engineer | Data Scientist 
+## 🚀 AI Engineer | Data Scientist 
 <br>
 🎯 Building ML systems that work in the real world
 <br>
-🌱 Currently focused on LLMs, video anomaly detection, and SaaS AI products.
+🌱 Currently focused on end-to-end AI products.
 
 ### 🛠️ Languages and Tools
 
