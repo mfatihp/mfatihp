@@ -19,4 +19,4 @@
 
 
 ### 📊 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&layout=pie&hide=jupyter%20notebook&jinja)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihp&layout=pie&hide=jupyter%20notebook&jinja&html)
