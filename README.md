@@ -1,4 +1,4 @@
-## 🚀 AI Engineer | Data Scientist 
+## Data Scientist | AI Engineer
 <br>
 🎯 Building ML systems that work in the real world
 <br>
