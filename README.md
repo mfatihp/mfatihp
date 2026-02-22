@@ -1,4 +1,4 @@
-## Data Scientist | AI Engineer
+## Data Scientist | Computer Vision Engineer
 <br>
 🎯 Building ML systems that work in the real world
 <br>
